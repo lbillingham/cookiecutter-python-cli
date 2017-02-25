@@ -1,5 +1,6 @@
 Copyright 2014 Vincent Driessen.
 Copyright 2017 Laurence Billignam
+Copyright (c) {{cookiecutter.year}} {{cookiecutter.full_name}}
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,
