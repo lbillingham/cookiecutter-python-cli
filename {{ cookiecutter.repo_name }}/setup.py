@@ -3,7 +3,7 @@
 """
 from setuptools import find_packages, setup
 
-dependencies = ['click']
+dependencies = [i.strip() for i in open("requirements.txt").readline()]
 
 setup(
     name='{{ cookiecutter.pypi_name }}',

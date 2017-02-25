@@ -1,14 +1,14 @@
 {
-    "full_name": "Vincent Driessen",
-    "email": "vincent@3rdcloud.com",
-    "github_username": "nvie",
+    "full_name": "Laurence Billingham",
+    "email": "lbillingham@users.noreply.github.com",
+    "github_username": "lbillingham",
     "project_name": "My Tool",
     "repo_name": "python-mytool",
     "pypi_name": "mytool",
     "script_name": "my-tool",
     "package_name": "my_tool",
     "project_short_description": "My Tool does one thing, and one thing well.",
-    "release_date": "2015-04-15",
-    "year": "2015",
+    "release_date": "2017-02-25",
+    "year": "2017",
     "version": "0.1.0"
 }
