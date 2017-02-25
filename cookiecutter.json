@@ -7,7 +7,7 @@
     "pypi_name": "mytool",
     "script_name": "my-tool",
     "package_name": "my_tool",
-    "project_short_description": "My Tool does one thing, and one thing well.",
+    "project_short_description": "My Tool greets <name>, optionally as a cowboy.",
     "release_date": "2017-02-25",
     "year": "2017",
     "version": "0.1.0"
